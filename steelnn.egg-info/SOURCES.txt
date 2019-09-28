@@ -1,0 +1,13 @@
+setup.py
+network/Resnet.py
+network/SEresnext.py
+network/__init__.py
+network/deepv3.py
+network/mynn.py
+network/unet.py
+network/wider_resnet.py
+steelnn.egg-info/PKG-INFO
+steelnn.egg-info/SOURCES.txt
+steelnn.egg-info/dependency_links.txt
+steelnn.egg-info/not-zip-safe
+steelnn.egg-info/top_level.txt
